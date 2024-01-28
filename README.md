@@ -17,4 +17,5 @@ Esse projeto consiste em criar um relógio de pomodoro,de forma que o usuário t
 - date-fns : https://date-fns.org/
 - react-router-dom : https://reactrouter.com/en/main
 - immer: https://immerjs.github.io/immer/
+- styled-components : https://styled-components.com/
 
